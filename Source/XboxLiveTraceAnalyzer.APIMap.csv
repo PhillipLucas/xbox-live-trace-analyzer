@@ -19,7 +19,7 @@
 "GET https://contextualsearch.xboxlive.com/titles/{titleid}/configuration","contextual_search_service::get_configuration","ContextualSearchService::GetConfiguration"
 "GET https://contextualsearch.xboxlive.com/titles/{titleId}/broadcasts","contextual_search_service::get_broadcasts","ContextualSearchService::GetBroadcasts"
 "GET https://contextualsearch.xboxlive.com//titles/{titleId}/gameclips","contextual_search_service::get_game_clips","ContextualSearchService::GetGameClipsAsync"
-"eplists.xboxlive.com","entertainment_profile_list_xbox_one_pins","entertainment_profile_list_xbox_one_pins","EntertainmentProfileListXboxOnePins"
+"eplists.xboxlive.com","entertainment_profile_list_xbox_one_pins","EntertainmentProfileListXboxOnePins"
 "POST https://eplists.xboxlive.com/users/xuid({xuid})/lists/PINS/XBLPins","entertainment_profile_list_xbox_one_pins::add_item","EntertainmentProfileListXboxOnePins::AddItem"
 "POST https://eplists.xboxlive.com/users/xuid({xuid})/lists/PINS/XBLPins/RemoveItems","entertainment_profile_list_xbox_one_pins::remove_item","EntertainmentProfileListXboxOnePins::RemoveItem"
 "POST https://eplists.xboxlive.com/users/xuid({xuid})/lists/PINS/XBLPins/ContainsItems","entertainment_profile_list_xbox_one_pins::contains_item","EntertainmentProfileListXboxOnePins::ContainsItem"
